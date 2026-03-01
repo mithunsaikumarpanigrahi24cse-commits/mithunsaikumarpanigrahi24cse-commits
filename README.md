@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>• JavaScript fundamentals, Data Structures & Web Development<br>• Building small but complete web projects (HTML, CSS, JS)<br><br>👯 I’m looking to collaborate on<br>• Web projects with clear learning goals<br>• College tech projects and hackathon ideas<br><br>🤝 I’m looking for help with<br>• Writing better structured, readable code<br>• Selecting projects that improve real-world skills<br><br>🌱 I’m currently learning<br>• Problem-solving & DSA<br>• MySQL<br><br>⚡ Fun fact<br>• Debugging taught me more than tutorials ever did 😄
+🔭 I’m currently working on<br>• React and JavaScript fundamentals, Data Structures & Web Development<br>• Building small but complete web projects <br><br>👯 I’m looking to collaborate on<br>• Web projects with clear learning goals<br>• College tech projects and hackathon ideas<br><br>🤝 I’m looking for help with<br>• Writing better structured, readable code<br>• Selecting projects that improve real-world skills<br><br>🌱 I’m currently learning<br>• Problem-solving & DSA(in Java)<br>• MySQL<br><br>⚡ Fun fact<br>• Debugging taught me more than tutorials ever did 😄
 
 
 ## 🌐 Socials:
